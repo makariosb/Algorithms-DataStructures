@@ -42,6 +42,8 @@ This is because the properties we have search for (largest spender & most freque
 
 Developed in Python 3.6
 
+---
+
 ## Project 4
 We begin by generating 2 sets of numbers, that have at least half their elements in common (same values).
 
